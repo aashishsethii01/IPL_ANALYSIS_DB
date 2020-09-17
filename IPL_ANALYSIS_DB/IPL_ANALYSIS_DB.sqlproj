@@ -60,6 +60,10 @@
     <Folder Include="dbo\Tables\" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="dbo\Tables\SAMPLE.sql" />
+    <Build Include="dbo\Tables\DimVenue.sql" />
+    <Build Include="dbo\Tables\DimUmpires.sql" />
+    <Build Include="dbo\Tables\DimToss.sql" />
+    <Build Include="dbo\Tables\DimSeason.sql" />
+    <Build Include="dbo\Tables\DimMatch.sql" />
   </ItemGroup>
 </Project>
